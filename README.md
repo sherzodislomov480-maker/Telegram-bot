@@ -1,0 +1,3 @@
+aiogram>=3.0,<4.0
+python-dotenv
+aiohttp
